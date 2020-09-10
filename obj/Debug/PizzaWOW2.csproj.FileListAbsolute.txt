@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\Intro-to-CSharp-master\PizzaWOW2\obj\Debug\PizzaWOW2.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Intro-to-CSharp-master\PizzaWOW2\obj\Debug\PizzaWOW2.PizzaWOW2.resources
+\\Mac\Home\Desktop\Intro-to-CSharp-master\PizzaWOW2\obj\Debug\PizzaWOW2.Properties.Resources.resources
+\\Mac\Home\Desktop\Intro-to-CSharp-master\PizzaWOW2\obj\Debug\PizzaWOW2.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Intro-to-CSharp-master\PizzaWOW2\obj\Debug\PizzaWOW2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Intro-to-CSharp-master\PizzaWOW2\bin\Debug\PizzaWOW2.exe.config
+\\Mac\Home\Desktop\Intro-to-CSharp-master\PizzaWOW2\bin\Debug\PizzaWOW2.exe
+\\Mac\Home\Desktop\Intro-to-CSharp-master\PizzaWOW2\bin\Debug\PizzaWOW2.pdb
+\\Mac\Home\Desktop\Intro-to-CSharp-master\PizzaWOW2\obj\Debug\PizzaWOW2.exe
+\\Mac\Home\Desktop\Intro-to-CSharp-master\PizzaWOW2\obj\Debug\PizzaWOW2.pdb
